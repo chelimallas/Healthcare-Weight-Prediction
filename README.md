@@ -1,4 +1,4 @@
-# Healthcare-Weight-Prediction
+
 # Healthcare Weight Prediction Using Linear Regression
 
 ## Project Overview
@@ -26,14 +26,6 @@ The dataset is sourced from [Kaggle - 500 Person Gender Height Weight BMI Datase
 ## Reflection
 This project demonstrated the application of linear regression to a healthcare problem involving continuous outcome prediction. Simulating missing features highlighted the importance of feature engineering. The model showed a reasonable fit, but incorporating additional variables could improve accuracy. Visualization tools were critical for interpreting both data and model performance. This project strengthened my understanding of regression modeling and data preprocessing in a real-world context.
 
-## How to Run
-1. Clone this repository.
-2. Download the dataset from Kaggle [here](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex) and place it in the project directory.
-3. Run the `healthcare_weight_prediction.ipynb` notebook in Jupyter or Kaggle environment.
-
-## Links
-- [Kaggle Notebook Link (if applicable)](https://www.kaggle.com/your-notebook-link)
-- [GitHub Repository](https://github.com/your-username/healthcare-weight-prediction)
 
 ---
 

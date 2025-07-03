@@ -18,8 +18,8 @@ The dataset is sourced from [Kaggle - 500 Person Gender Height Weight BMI Datase
 ## Results
 | Metric                   | Value    |
 |--------------------------|----------|
-| Mean Squared Error (MSE) | *e.g., 100.75* |
-| R² Score                 | *e.g., 0.693*  |
+| Mean Squared Error (MSE) | *e.g., 1068.18* |
+| R² Score                 | *e.g., -0.014*  |
 
 *Note: Replace the values above with your actual model results.*
 

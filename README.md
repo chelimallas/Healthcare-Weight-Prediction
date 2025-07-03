@@ -26,8 +26,3 @@ The dataset is sourced from [Kaggle - 500 Person Gender Height Weight BMI Datase
 ## Reflection
 This project demonstrated the application of linear regression to a healthcare problem involving continuous outcome prediction. Simulating missing features highlighted the importance of feature engineering. The model showed a reasonable fit, but incorporating additional variables could improve accuracy. Visualization tools were critical for interpreting both data and model performance. This project strengthened my understanding of regression modeling and data preprocessing in a real-world context.
 
-
----
-
-Feel free to reach out for questions or improvements!
-

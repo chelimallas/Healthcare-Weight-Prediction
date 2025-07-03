@@ -2,7 +2,7 @@
 # Healthcare Weight Prediction Using Linear Regression
 
 ## Project Overview
-This project focuses on predicting a person’s **weight** based on features such as **height**, **age**, and **exercise level** using a supervised machine learning approach—**Linear Regression**. Accurate weight prediction can support healthcare decision-making, personalized treatment, and wellness planning.
+This project focuses on predicting a person’s **weight** based on features such as **height**, **age**, and **exercise level** using a supervised machine learning approach **Linear Regression**. Accurate weight prediction can support healthcare decision-making, personalized treatment, and wellness planning.
 
 ## Dataset
 The dataset is sourced from [Kaggle - 500 Person Gender Height Weight BMI Dataset](https://www.kaggle.com/datasets/yersever/500-person-gender-height-weight-bodymassindex). It contains measurements of gender, height, weight, and BMI category. Since the dataset lacks some important predictors like age and exercise level, these features were simulated to enrich the analysis.

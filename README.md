@@ -23,6 +23,11 @@ The dataset is sourced from [Kaggle - 500 Person Gender Height Weight BMI Datase
 
 *Note: Replace the values above with your actual model results.*
 
-## Reflection
-This project demonstrated the application of linear regression to a healthcare problem involving continuous outcome prediction. Simulating missing features highlighted the importance of feature engineering. The model showed a reasonable fit, but incorporating additional variables could improve accuracy. Visualization tools were critical for interpreting both data and model performance. This project strengthened my understanding of regression modeling and data preprocessing in a real-world context.
+## Reflection on the Problem and Solution
+
+The goal of this project was to build a regression model to predict a person's weight using features like height, age, and exercise level. While the dataset provided by Kaggle included height and weight, it lacked important contextual features such as age and activity level. This challenge provided an opportunity to simulate those missing variables in a realistic way, reinforcing the value of feature engineering in data science.
+
+Linear regression was chosen as the predictive model due to its simplicity and interpretability. After training the model and evaluating it using Mean Squared Error (MSE) and R² score, we found that the model was able to capture general trends in the data but left room for improvement. The visualizations (scatterplots, residual plots, correlation heatmaps) were particularly useful in understanding how well the model performed and in identifying potential limitations.
+
+Overall, this project demonstrated a full machine learning workflow—from data preprocessing to model evaluation—within a healthcare context. It emphasized the importance of data quality, thoughtful feature creation, and performance visualization. In real-world applications, incorporating more detailed health indicators such as diet, sleep, or medical history could significantly improve model accuracy and utility.
 
